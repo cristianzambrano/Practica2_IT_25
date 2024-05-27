@@ -3,3 +3,6 @@
 
 ### Integrantes
 .- Kiara
+
+###  Capturas
+<img src="Captura1.png" width=300 height=600>
